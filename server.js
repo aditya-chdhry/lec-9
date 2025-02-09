@@ -19,5 +19,5 @@ app.use('/', productRoutes);
 app.listen(port, () => {
     console.log(Server running at http://localhost:${port} );
     console.log(Current time: ${new Date().toISOString()});
-    console.log(Current user: vipinyadav01);
+    console.log(Current user: adityachdhry);
 });
